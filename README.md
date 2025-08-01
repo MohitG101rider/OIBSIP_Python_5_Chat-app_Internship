@@ -21,7 +21,7 @@ The objective of this project was to build a **real-time chat application** usin
 1. **Implemented server** using `socket` to listen for incoming connections and manage message broadcasting.  
 2. **Developed client** program to connect to the server and send/receive messages.  
 3. **Used threading** to allow multiple clients to chat simultaneously without blocking each other.  
-4. (Optional) **Basic Tkinter GUI** to provide a simple text interface for messages.  
+4. **Basic Tkinter GUI** to provide a simple text interface for messages.  
 5. **Tested the application** locally using multiple terminals to simulate multiple users.
 
 ---
